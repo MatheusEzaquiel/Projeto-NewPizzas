@@ -1,0 +1,86 @@
+body{
+  font-family: arial;
+}
+div.pedido{
+  text-align: center;
+  background: rgba(84,84,84,0.6);
+  width: 90%;
+  height: 300px;
+  padding: 10px;
+  margin: 10px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-left: 60px;
+  color: white;
+  border-radius: 6px;
+}
+div.pedido p{
+  margin-top: 2px;
+  margin-bottom: 0px;
+  color: white;
+}
+div#totalFinal{
+  text-align: center;
+  font-size: 50px;
+  background:  #FAC564;
+  width: 90%;
+  height: 150px;
+  padding: 15px;
+  margin: 10px;
+  margin-left: 60px;
+  font-size: 12pt;
+  color: white;
+  border-radius: 6px;
+}
+div.carrinhoVazio{
+  background: indianred;
+  width: 600px;
+  height: 70px;
+  text-align: center;
+  padding: 15px;
+  margin: 10px;
+  font-size: 10pt;
+  color: white;
+  border-radius: 6px;
+  margin-left: auto;
+  margin-right: auto;
+}
+div.carrinhoVazio2{
+  background: darkorange;
+  width: 420px;
+  height: 70px;
+  padding: 15px;
+  margin: 10px;
+  font-size: 10pt;
+  color: white;
+  border-radius: 6px;
+}
+button a{
+  color: black;
+}
+img.fotoProduto{
+  width: 150px;
+  border-radius: 100%;
+  margin-bottom: 15px;
+}
+div.containerPedido{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+input.btnRemove{
+   background: #FAC564;
+   width: 200px;
+   height: 100px;
+   border: none;
+   font-size: 22px;
+}
+input.btnRemove:hover{
+   background: #9A8254;
+   width: 190px;
+   height: 90px;
+   font-size: 18px;
+   color: #fff;
+   margin: 5px;
+}

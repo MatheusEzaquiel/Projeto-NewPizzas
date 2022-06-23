@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 448 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="trash-can-solid.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="851"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-205.55932"
+     inkscape:cy="342.77966"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+  <path
+     d="m 35.027603,396.80064 c 1.399031,-2.52674 4.274818,-4.12267 7.409685,-4.12267 h 31.19322 c 3.134867,0 6.010654,1.59593 7.409686,4.12267 l 1.865375,3.33496 h 24.871671 c 4.58571,0 8.29056,3.33961 8.29056,7.45762 0,4.118 -3.70485,7.45763 -8.29056,7.45763 H 8.2905569 C 3.712615,415.05085 0,411.71122 0,407.59322 0,403.47521 3.712615,400.1356 8.2905569,400.1356 H 33.162228 Z M 8.057385,422.50847 h 99.719855 v 74.57628 C 107.77724,505.31144 100.34165,512 91.196126,512 H 24.638499 C 15.713196,512 8.057385,505.31144 8.057385,497.08475 Z m 20.726392,18.64407 v 52.20339 c 0,2.05085 2.098547,3.72882 4.145279,3.72882 2.513075,0 4.145278,-1.67797 4.145278,-3.72882 v -52.20339 c 0,-2.05085 -1.632203,-3.72882 -4.145278,-3.72882 -2.046732,0 -4.145279,1.67797 -4.145279,3.72882 z m 24.871671,0 v 52.20339 c 0,2.05085 2.098547,3.72882 4.145278,3.72882 2.513075,0 4.378451,-1.67797 4.378451,-3.72882 v -52.20339 c 0,-2.05085 -1.865376,-3.72882 -4.378451,-3.72882 -2.046731,0 -4.145278,1.67797 -4.145278,3.72882 z m 25.104843,0 v 52.20339 c 0,2.05085 1.865375,3.72882 4.145278,3.72882 2.279903,0 4.145278,-1.67797 4.145278,-3.72882 v -52.20339 c 0,-2.05085 -1.865375,-3.72882 -4.145278,-3.72882 -2.279903,0 -4.145278,1.67797 -4.145278,3.72882 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.24572097;fill:#ffffff"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+</svg>

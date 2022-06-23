@@ -1,0 +1,56 @@
+section#tabela {
+    display: flex;
+    justify-content:center;
+
+    
+}
+
+table.tbProdutos caption{
+    background-color:#403d39;
+    padding:10px;
+    color: #fff;
+}
+table.tbProdutos{
+    border:1px solid #ccc;
+    background-color:#fffcf2;
+    margin-top: 40px;
+}
+
+table.tbProdutos th{
+    background-color:#403d39;
+    color:#ffffff;
+}
+
+table.tbProdutos tr:nth-child(even){
+    background: #BCB8B1;
+    
+}
+
+
+th,td{
+    padding: 10px;
+}
+
+input{
+    margin:5px;
+    padding-left:25px;
+    padding-right:25px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border: transparent;
+    cursor: pointer;
+}
+
+.btn-editar{
+    background-color:#0466c8;
+    color:#fff;
+}
+.btn-excluir{
+    background-color:#ef233c;
+    color:#fff;
+}
+
+input:hover{
+    transition-duration: 0.4s;
+    opacity: 0.7;
+}
